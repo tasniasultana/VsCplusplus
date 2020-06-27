@@ -1,4 +1,5 @@
 // addingNumbers.cpp 
+//this program is to simply adding two numbers
 //Author: Tasnia Sultana
 
 #include <iostream>
